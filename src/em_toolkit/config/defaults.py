@@ -30,7 +30,7 @@ FIELD_LINE_DEFAULTS = {
 
 # Cargas
 CHARGE_DEFAULTS = {
-    "radius": 0.15,              # radio visual en unidades de escena
+    "radius": 0.28,              # radio visual en unidades de escena
     "glow_ratio": 2.5,           # extensión del halo respecto al radio
     "label_font_size": 28,
 }
